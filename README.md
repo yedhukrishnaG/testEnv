@@ -1,2 +1,2 @@
 # testEnv
-This is used for Testing back up for shop.implify.de
+This is used for the Testing for shop.implify.de
